@@ -8,7 +8,6 @@ const app = express();
 const port = process.env.PORT || 5000;
 app.use(cors());
 app.use(express.json());
-
 mongoose
     .connect("mongodb+srv://capstone:12345@cluster0.gdfnt.mongodb.net/Capstone?retryWrites=true&w=majority", { useNewUrlParser: true, useCreateIndex: true })
     // .then((result) => app.listen(5000))
