@@ -168,7 +168,7 @@ class allLocations extends Component {
         return (
             <div st>
                 
-<iframe style={{ padding:'0rem', marginTop: 90, marginBottom: 90 }} width="922" height="519" src="https://www.youtube.com/embed/G8EUiH00BrU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
+<iframe title="pic" style={{ padding:'0rem', marginTop: 90, marginBottom: 90 }} width="922" height="519" src="https://www.youtube.com/embed/G8EUiH00BrU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
             
             <div  className='peaches' style={{ padding:'1rem', margin:'0 auto', maxWidth: 1000 }}>
                 <h2 className="google" style={{ marginLeft: 400 }}>Google Maps</h2>
